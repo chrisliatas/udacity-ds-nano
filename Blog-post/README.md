@@ -29,6 +29,13 @@ The libraries used for running the jupyter notebook for this project are:
 
 Stack Overflow data are not included in the repository. To run the notebook, please create a folder `data` in the same level as this readme file and after downloading the data from Stack Overflow, save the corresponding year's data with the names: `survey_results_public_18.csv`, `survey_results_public_19.csv`, `survey_results_public_20.csv`.
 
+## Files
+
+This part of the repository contains the files for the first project in the [Data Science nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+
+`Blogpost_analysis.ipynb` is the jupiter notebook containing the code for the analysis.
+`README.md` is this file containing relevant information and directions for using the jupyter notebook.
+
 ## Motivation
 
 For this project data from the Stack Overflow yearly survey were used for the years 2018, 2019 and 2020. These years were selected as the three most recent years with available data to identify possible trends and make comparisons among these from year to year. The questions that motivated this study are:
