@@ -33,8 +33,8 @@ Stack Overflow data are not included in the repository. To run the notebook, ple
 
 This part of the repository contains the files for the first project in the [Data Science nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 
-`Blogpost_analysis.ipynb` is the jupiter notebook containing the code for the analysis.
-`README.md` is this file containing relevant information and directions for using the jupyter notebook.
+* `Blogpost_analysis.ipynb` is the jupiter notebook containing the code for the analysis.
+* `README.md` is this file containing relevant information and directions for using the jupyter notebook.
 
 ## Motivation
 
