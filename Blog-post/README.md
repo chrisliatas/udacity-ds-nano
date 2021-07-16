@@ -10,7 +10,7 @@ This first project is about creating a blog post and an associated Github reposi
 
 The data used for this project are from the Stack Overflow surveys for the years 2018, 1019 and 2020, found [here](https://insights.stackoverflow.com/survey)
 
-This repository is one deliverable of the project and the other is this[add link] blog post.
+This repository is one deliverable of the project and the other is [this](https://medium.com/@cliatas/how-will-your-salary-develop-as-you-grow-as-a-developer-721e3e2542f) blog post.
 
 ## Environment
 
@@ -26,6 +26,8 @@ The libraries used for running the jupyter notebook for this project are:
 * matplotlib
 * seaborn
 * jupyter
+
+Stack Overflow data are not included in the repository. To run the notebook, please create a folder `data` in the same level as this readme file and after downloading the data from Stack Overflow, save the corresponding year's data with the names: `survey_results_public_18.csv`, `survey_results_public_19.csv`, `survey_results_public_20.csv`.
 
 ## Motivation
 
@@ -44,3 +46,7 @@ Data analysis produced the following results for the above questions respectivel
 2. There is a linear-like increase in the average salary among the different age groups, with the younger age groups having less salary on average than the older groups. This holds true for all three years.
 3. Work hours per week, were analyzed for 2019 and 2020, as 2018 dataset does not include this information. For the two years, there appears to be a trend were the older age groups have more work hours on average than the younger ones.
 4. Data analysis for the two years 2019 - 2020 shows that a larger salary means more work hours and that older age groups are paid more but also work more hours. The age group 45 - 54 years old in 2019 seems to be an exception, having on average less work hours than the previous younger age group (35 - 44), which might be coincidental and could be worth investigating more given additional years' data.
+
+## Presentation
+
+Please read the related article with results presentation [here](https://medium.com/@cliatas/how-will-your-salary-develop-as-you-grow-as-a-developer-721e3e2542f).
