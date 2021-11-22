@@ -13,3 +13,7 @@ The second project in the Data Science Nanodegree is about creating a machine le
 ## Project 3 - [Recommendations with IBM](https://github.com/chrisliatas/dsnd-recommendations-with-IBM)
 
 The third project in DSND is about analyzing the interactions that users have with articles on the IBM Watson Studio platform, and making recommendations, based on a number of recommendation techniques to them about new articles they may like.
+
+## Project 4 - [Bertelsmann - Arvato challenge capstone project](https://github.com/chrisliatas/dsnd-customer-segmentation)
+
+The capstone project in DSND is about segmenting demographics data samples with PCA and k-means and building a LightGBM model for a targeted mailout marketing campaign.
